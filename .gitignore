@@ -1,0 +1,8 @@
+cerviai_env/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+models/
+*.h5
+*.pth
+*.pt

@@ -1,0 +1,16 @@
+/* Small custom styles to complement Tailwind */
+#dropZone:focus { box-shadow: 0 0 0 4px rgba(45, 212, 191, 0.15); }
+#preview { max-width: 100%; }
+.bar-bg { background: #eef2f7; border-radius: 9999px; height: 14px; overflow: hidden; }
+.bar-fill { height: 14px; border-radius: 9999px; width: 0%; transition: width 600ms ease; }
+.risk-low { background: #10b981; } /* green */
+.risk-medium { background: #f59e0b; } /* yellow */
+.risk-high { background: #ef4444; } /* red */
+
+/* small responsive tweaks */
+@media (min-width: 768px) {
+  #preview { max-height: 400px; }
+}
+
+.fade-in { animation: fadeIn 300ms ease both; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
