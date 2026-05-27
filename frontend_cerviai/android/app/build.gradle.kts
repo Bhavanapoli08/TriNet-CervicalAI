@@ -1,0 +1,45 @@
+plugins {
+    id("com.android.application")
+    id("kotlin-android")
+    id("dev.flutter.flutter-gradle-plugin")
+}
+
+android {
+    namespace = "com.example.frontend_cerviai"
+    compileSdk = flutter.compileSdkVersion
+
+    defaultConfig {
+        applicationId = "com.example.frontend_cerviai"
+        minSdk = flutter.minSdkVersion
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.getByName("debug")
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+configurations.all {
+    exclude(group = "org.tensorflow", module = "tensorflow-lite")
+    exclude(group = "org.tensorflow", module = "tensorflow-lite-api")
+}
+
+dependencies {
+}
