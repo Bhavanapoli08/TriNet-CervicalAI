@@ -395,13 +395,6 @@ gcloud run deploy cervical-api --source . --region asia-south1 --allow-unauthent
 
 ---
 
-## ⚠️ Limitations
-
-- **Single dataset.** Trained and tested on SIPaKMeD only — generalisation to other staining, scanners, and populations is **not yet validated**.
-- **Single-cell input.** Classifies pre-cropped individual cells, not whole-slide images; a real pipeline needs an upstream cell detector.
-- **Class imbalance.** Superficial-Intermediate is over-represented, which can slightly inflate macro averages.
-- **Small test set (research benchmark).** The companion paper's benchmark uses a small held-out set, making fine accuracy differences statistically fragile.
-- **Chatbot risk.** Despite system-prompt locking, the LLM may produce inaccurate claims — mitigated by a permanent disclaimer, not eliminated.
 
 ---
 
@@ -419,8 +412,6 @@ gcloud run deploy cervical-api --source . --region asia-south1 --allow-unauthent
 ## 👩‍🔬 Authors & Acknowledgements
 
 - **Bhavana Poli** — author and developer
-- **Dr. Tripty Singh** — research co-author
-- **Dr. B. Uma Maheshwari** — project guide (Mobile Application Development course)
 
 Department of Computer Science and Engineering,
 **Amrita School of Engineering, Bengaluru — Amrita Vishwa Vidyapeetham.**
@@ -438,10 +429,10 @@ If you use this work, please cite the companion paper:
   title     = {Cervical Cancer Cell Classification on the SIPaKMeD Dataset:
                A Comparative Study of Ten Deep Learning Architectures
                with a Soft-Voting Top-3 Ensemble},
-  author    = {Poli, Bhavana and Singh, Tripty},
+  author    = {Poli, Bhavana},
   booktitle = {Procedia Computer Science},
   publisher = {Elsevier},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 
