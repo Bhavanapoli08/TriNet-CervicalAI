@@ -97,9 +97,7 @@ A **Gemini-powered chatbot** provides educational follow-up, locked by a system 
 
 | Analysis Result | Chatbot | Reports / History |
 |:---:|:---:|:---:|
-| <img width="272" height="596" alt="image" src="https://github.com/user-attachments/assets/ec414de3-afb7-4025-b825-35c3c3b223b9" width="230"/>
- | <img width="272" height="596" alt="image" src="https://github.com/user-attachments/assets/f45f70a1-d5f0-4ee0-8dd6-1d40af786517" width="230"/>
- | <img width="272" height="596" alt="image" src="https://github.com/user-attachments/assets/a3ba5ec0-0187-4c4e-ae0f-753fe8f560e0" width="230"/>|
+| <img src="https://github.com/user-attachments/assets/ec414de3-afb7-4025-b825-35c3c3b223b9" width="230"/> | <img src="https://github.com/user-attachments/assets/f45f70a1-d5f0-4ee0-8dd6-1d40af786517" width="230"/> | <img src="https://github.com/user-attachments/assets/a3ba5ec0-0187-4c4e-ae0f-753fe8f560e0" width="230"/> |
 
 ### 🌐 Web Application
 
