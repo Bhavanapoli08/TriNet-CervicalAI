@@ -11,7 +11,8 @@
 [![Cloud Run](https://img.shields.io/badge/Cloud-Google%20Cloud%20Run-4285F4?logo=googlecloud&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
-<img src="screenshots/banner.png" alt="CerviAI banner" width="85%"/>
+<img width="272" height="596" alt="image" src="https://github.com/user-attachments/assets/cb598679-7764-4b69-906f-efa5fb22b071" />
+
 
 </div>
 
