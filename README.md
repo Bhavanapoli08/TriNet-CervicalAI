@@ -93,7 +93,8 @@ A **Gemini-powered chatbot** provides educational follow-up, locked by a system 
 
 | Onboarding | Home | Upload / Capture |
 |:---:|:---:|:---:|
-| <img src="screenshots/mobile_onboarding.png" width="230"/> | <img src="screenshots/mobile_home.png" width="230"/> | <img src="screenshots/mobile_upload.png" width="230"/> |
+| <img width="272" height="596" alt="image" src="https://github.com/user-attachments/assets/639a74ae-5e2d-45cf-aa62-0fe3825aae9a"
+ width="230"/> | <img src="screenshots/mobile_home.png" width="230"/> | <img src="screenshots/mobile_upload.png" width="230"/> |
 
 | Analysis Result | Chatbot | Reports / History |
 |:---:|:---:|:---:|
