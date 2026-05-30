@@ -99,15 +99,15 @@ A **Gemini-powered chatbot** provides educational follow-up, locked by a system 
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/ec414de3-afb7-4025-b825-35c3c3b223b9" width="230"/> | <img src="https://github.com/user-attachments/assets/f45f70a1-d5f0-4ee0-8dd6-1d40af786517" width="230"/> | <img src="https://github.com/user-attachments/assets/a3ba5ec0-0187-4c4e-ae0f-753fe8f560e0" width="230"/> |
 
-### 🌐 Web Application
+### 🌐 Web Application 
 
 | Upload & Predict |
 |:---:|
-| <img src="screenshots/web_dashboard.png" width="100%"/> |
-
-| Per-Model Contributions | PDF Report |
-|:---:|:---:|
-| <img src="screenshots/web_contributions.png" width="100%"/> | <img src="screenshots/web_report.png" width="100%"/> |
+| <img width="1280" height="687" alt="image" src="https://github.com/user-attachments/assets/226b0353-7cc7-4626-8130-32e761eff4ac" /> |
+| <img width="1280" height="687" alt="image" src="https://github.com/user-attachments/assets/8892abbe-a41e-4a69-ab06-b0b8c73a939a" /> |
+| <img width="1280" height="687" alt="image" src="https://github.com/user-attachments/assets/0f59d5b3-71f2-4975-8824-dfc0e5ccc085" /> |
+| <img width="1280" height="687" alt="image" src="https://github.com/user-attachments/assets/31031722-408b-4a3d-9ed4-28b72c5937b0" /> |
+| <img width="1280" height="687" alt="image" src="https://github.com/user-attachments/assets/08e9e598-9bb4-4197-a253-7d2fcf9fab17" /> |
 
 ---
 
