@@ -139,6 +139,8 @@ A **Gemini-powered chatbot** provides educational follow-up, locked by a system 
                        (→ Abnormal / Benign / Normal triage)
 ```
 
+
+
 ### Three inference paths
 
 - **Path A — On-device TFLite (default):** zero network calls, ~200 ms, full privacy.
