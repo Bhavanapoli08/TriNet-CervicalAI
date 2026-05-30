@@ -93,7 +93,7 @@ A **Gemini-powered chatbot** provides educational follow-up, locked by a system 
 
 | Onboarding | Home | Upload / Capture |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/d0996e29-9034-4944-a2a2-cec89933b92d" width="230"/> | <img src="https://github.com/user-attachments/assets/7a748013-3417-4bf3-8ca8-2ec0ab93e19a" width="230"/> | <img src="https://github.com/user-attachments/assets/d4772464-eae1-4605-9b19-64a6c1803365" width="230"/> |
+| <img src="https://github.com/user-attachments/assets/d0996e29-9034-4944-a2a2-cec89933b92d" width="230"/> | <img width="272" height="596" alt="image" src="https://github.com/user-attachments/assets/f0f7804a-c1e7-4ee6-871e-643d7abe2fa3" width="230"/> | <img width="272" height="596" alt="image" src="https://github.com/user-attachments/assets/a87fee1a-ee30-4f6e-8a13-a28ae723079a" width="230"/> |
 
 | Analysis Result | Chatbot | Reports / History |
 |:---:|:---:|:---:|
